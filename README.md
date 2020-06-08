@@ -1,1 +1,1 @@
-Local workstation k8s test config.
+Local workstation k8s vagrant test config.
