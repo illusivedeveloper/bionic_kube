@@ -1,0 +1,1 @@
+Allow "PasswordAuthentication" in /etc/ssh/sshd_config in all VMs.
